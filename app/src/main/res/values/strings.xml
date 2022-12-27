@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">User Login Activity</string>
+    <string name="hello_message">Hello Fawwaz!</string>
+</resources>
